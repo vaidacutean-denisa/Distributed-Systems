@@ -1,0 +1,28 @@
+// am testat algoritmul pe urmatoarele input-uri:
+// a) doi roboti care se intalnesc; r=11.0
+2
+0 0
+10 0
+
+// b) patru roboti intr-un patrat; r=6.0
+4
+0 0
+0 4
+4 0
+4 4
+
+// c) doua clustere independente; r=3.0
+6
+0 0
+2 0
+0 2
+100 100
+102 100
+100 102
+
+// d) roboti izolati; r=5.0
+4
+0 0
+20 0
+40 0
+60 0
